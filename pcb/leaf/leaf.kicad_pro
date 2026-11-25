@@ -700,7 +700,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../cad/leaf.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
