@@ -48,3 +48,11 @@ I also added net classes and assign them colours. My schematic is so colourful n
 
 **Total time spent: 7h**
 
+# Nov 23: Made the leaf PCBs! All done now!
+
+![Leaf PCB 3D](assets/leaf_3d.png)
+
+![Leaf PCB](assets/leaf_pcb.png)
+
+**Total time spent: 3h**
+
